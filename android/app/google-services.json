@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569763882661",
+    "project_id": "jeuxbaord",
+    "storage_bucket": "jeuxbaord.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569763882661:android:344cd1cb30158eeb634f4c",
+        "android_client_info": {
+          "package_name": "com.jeuxbaord.app.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0qtLHfOttcHA5oHEz4qdkx3mt5mjQ3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
